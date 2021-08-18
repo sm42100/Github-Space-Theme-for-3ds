@@ -2,4 +2,5 @@
 
 
 # Github-Space-Theme-for-3ds
-Put the folder "Github-Space-Theme-for-3ds" in the folder "Themes" if you don't have the folder, create it.
+Put the folder "Github-Space-Theme-for-3ds" in the folder "Themes" if you don't have the folder, create it
+Downlad:https://github.com/sm42100/Github-Space-Theme-for-3ds/releases/download/0.5.7/github.0.5.7.zip
